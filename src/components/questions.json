@@ -1,0 +1,75 @@
+[
+    {
+      "question": "Which of the following is not an operating system?",
+      "optionA": "Windows",
+      "optionB": "Linux",
+      "optionC": "Oracle",
+      "optionD": "DOS",
+      "answer": "Oracle"
+    },
+    {
+        "question": "India won its first Olympic hockey gold in...?",
+        "optionA": "1928",
+        "optionB": "1932",
+        "optionC": "1936",
+        "optionD": "1948",
+        "answer": "1928"
+      },
+    
+    {
+        "question": "Which of the following animals is a Carnivore?",
+        "optionA": "Lion",
+        "optionB": "Cow",
+        "optionC": "Deer",
+        "optionD": "Sheep",
+        "answer": "Lion"
+    },
+    {
+      "question": "When was the first operating system developed?",
+      "optionA": "1948",
+      "optionB": "1949",
+      "optionC": "1950",
+      "optionD": "1951",
+      "answer": "1950"
+    },
+    {
+        "question": "Which city is known as 'Electronic City of India'?",
+        "optionA": "Mumbai",
+        "optionB": "Hyderabad",
+        "optionC": "Guragaon",
+        "optionD": "Bangalore",
+        "answer": "Bangalore"
+      },
+    {
+    "question": "Which of the following is the Capital of India?",
+    "optionA": "Delhi",
+    "optionB": "Mumbai",
+    "optionC": "Chennai",
+    "optionD": "Kolkata",
+    "answer": "Delhi"
+    },
+    {
+      "question": " Which of the following is the extension of Notepad?",
+      "optionA": ".txt",
+      "optionB": ".xls",
+      "optionC": ".ppt",
+      "optionD": ".bmp",
+      "answer": ".txt"
+    },
+    {
+        "question": "Which of the following folk dance forms is associated with Gujarat?",
+        "optionA": "Nautanki",
+        "optionB": "Garba",
+        "optionC": "Kathakali",
+        "optionD": "Bhangra",
+        "answer": "Garba"
+      },
+    {
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    }
+]
