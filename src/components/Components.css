@@ -113,7 +113,7 @@ body{
     cursor: pointer;
     color: white;
 }
-.button-controls > Link >{
+.button-controls > Link{
     margin: 10px;
     border: 2px solid rgb(156, 156, 156);
     height: 40px;
