@@ -4,12 +4,12 @@ import QuizComponent from './components/QuizComponent';
 import {Routes,Route,Link} from "react-router-dom";
 import './App.css';
 import ResultComponent from './components/ResultComponent';
-import { Component } from 'react/cjs/react.development';
+
 function Empty()
 {
   return <h1>There's Nothing to display</h1>
 }
-class App extends Component{
+class App extends React.Component{
   constructor(){
     super()
     this.state={
